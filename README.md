@@ -4,6 +4,7 @@
 ## Data Analysis website for the Automotive Industry  🚀
 ### Quick Links 🔗
 - Link 1: Click on ' CLICK HERE TO GO TO THE MAIN WEBSITE' button: https://automata-da.nicepage.io/?version=6984ea6a-9903-4da2-882f-117473380ec2&uid=9ffc7358-e7e1-4636-b4a3-fa863b5f468a
+![logo](https://user-images.githubusercontent.com/63731905/170882529-762ce164-98c6-4778-a0e4-4ef742170f28.png)
 
 - Link 2: If the above link does not appear to work: https://automata-datanalysis.herokuapp.com/
 
@@ -28,6 +29,13 @@ It is a website that analyzes data from the automotive indutry to provide useful
 5. Dive right in! Go through the contents of the page. There are radio buttons on the sidebar (top-left corner) to see analysis according to type - Uni-, Bi- and Multivariate Analysis.
 6. The hamburger menu on the top-right corner provides various appearance options. Choose as you like. 
 7. If any error/ warning messages seem to appear on the screen, refresh the page or choose 'Rerun' from the hamburger menu. The website is supposed to run seamlessly.
+
+### Screenshots of the prototype 📸
+![image](https://user-images.githubusercontent.com/63731905/170882588-85f36c01-9790-46ce-a616-dff2ddd30a12.png)
+![image](https://user-images.githubusercontent.com/63731905/170882610-d949f633-f548-4f72-81fd-5810c9294fc0.png)
+![image](https://user-images.githubusercontent.com/63731905/170882625-57912743-0ead-48ba-82ca-82f1c66d166a.png)
+
+
 
 ### Additional Links 
 Video demo: 
