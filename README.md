@@ -3,9 +3,9 @@
 ![logo](https://user-images.githubusercontent.com/63731905/170882529-762ce164-98c6-4778-a0e4-4ef742170f28.png)
 ## Data Analysis website for the Automotive Industry  🚀
 ### Quick Links 🔗
-- Link 1: Click on ' CLICK HERE TO GO TO THE MAIN WEBSITE' button: https://automata-da.nicepage.io/?version=6984ea6a-9903-4da2-882f-117473380ec2&uid=9ffc7358-e7e1-4636-b4a3-fa863b5f468a
+- **Link 1:** Click on ' CLICK HERE TO GO TO THE MAIN WEBSITE' button: https://automata-da.nicepage.io/?version=6984ea6a-9903-4da2-882f-117473380ec2&uid=9ffc7358-e7e1-4636-b4a3-fa863b5f468a
 
-- Link 2: If the above link does not appear to work: https://automata-datanalysis.herokuapp.com/
+- **Link 2:** If the above link does not appear to work: https://automata-datanalysis.herokuapp.com/
 
 ### Introduction
 This project has been created under the 'Data Analysis' challenge as part of the Microsoft Engage mentorship program 2022.
